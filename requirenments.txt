@@ -1,8 +1,5 @@
 dash==2.9.3
-matplotlib
 numpy
 pandas
-plotly
 scikit_learn
-seaborn
-gunicorn
+plotly
